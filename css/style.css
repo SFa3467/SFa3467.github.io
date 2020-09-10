@@ -1,0 +1,53 @@
+body {
+   font-size: 20px;
+   background-color: #3DBD0A;
+}
+
+h1 {
+   text-align: center;
+   font-size: 24px;
+   font-family: Saira;
+}
+
+h3 {
+  text-align: center;
+}
+
+.watermelon-count {
+  font-size: 25px;
+}
+
+.collect-button {
+  font-size: 30px
+ border-radius 15px;
+ background-color: #FF476F;
+
+
+ padding-left: 15px;
+ padding-right: 15px;
+ padding-top: 5px;
+ padding-bottom: 5px;
+}
+
+.collect-button:hover {
+  cursor: pointer;
+  background-color: #FF476F;
+}
+
+.shop-title {
+  font-size: 25px;
+  margin-top: 15px;
+}
+
+.buy-button {
+  font-size: 15px;
+  margin: 5px 0px;
+  padding: 5px;
+  border-radius: 5px;
+  width: 250px;
+}
+
+.buy-button:hover {
+  cursor: pointer;
+  background-color: #FFFF00;
+}
